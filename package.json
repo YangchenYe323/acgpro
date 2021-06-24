@@ -1,0 +1,25 @@
+{
+  "name": "acgpro",
+  "version": "0.1.0",
+  "description": "send acg pics in qq group",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YangchenYe323/acgpro.git"
+  },
+  "author": "yangchen <yye02@email.wm.edu>",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mirai-js": "1.7.5",
+    "pn": "^1.1.0",
+    "request": "^2.88.2"
+  },
+  "bugs": {
+    "url": "https://github.com/YangchenYe323/acgpro/issues"
+  },
+  "homepage": "https://github.com/YangchenYe323/acgpro#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
