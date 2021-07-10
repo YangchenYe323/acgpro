@@ -6,7 +6,7 @@ async function connect() {
 	// TODO: use config file
 	const server = {
 		baseUrl: 'http://0.0.0.0:8080',
-		authKey: 'INITKEY8jsKxgDE',
+		authKey: 'INITKEY9UNhxZpn',
 		qq: '1320117484',
 	};
 	await bot.open(server);
